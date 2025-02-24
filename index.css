@@ -1,3 +1,18 @@
-#color{
-    color:rgb(51, 80, 71);
+h1{
+    color:rgb(237, 160, 160)
+}
+hr{
+    border: none;
+  border-top: 12px dotted rgb(167, 115, 195);
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 100%;
+}
+#expert{
+    color:darkgrey;
+    font-weight: bold;
+}
+ul{
+   box-sizing: 10px;
 }
