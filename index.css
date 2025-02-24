@@ -13,9 +13,14 @@ hr{
     color:darkgrey;
     font-weight: bold;
 }
-ul{
-   box-sizing: 10px;
+ul,li{
+   border: 4px solid black;
+   padding: 0.5em;
+   margin: 0.5em;;
 }
 h2{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p1{
+    color:yellow;
 }
